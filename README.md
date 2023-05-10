@@ -1,8 +1,8 @@
-# Summary of the business case
+# Summary of case study
 
 This file summarizes two projects:  
 
-First one is front-end oriented and concerns the design and implementation of a mobile application on the model of an existing radio in web format: [radio-grenouille](http://www.radiogrenouille.com/.
+First one is front-end oriented and concerns the design and implementation of a mobile application on the model of an existing radio in web format: [radio-grenouille](http://www.radiogrenouille.com/).
 This includes a work of realization of specifications, mock-up, database design, creation of component, link to an existing API that hosts the podcast and deployment inside a virtual machine. I
 used React-Native framework along WSL environment for this project.
 
