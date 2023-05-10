@@ -1,4 +1,4 @@
-# Summary of case study
+# summary of case studies
 
 This file summarizes two projects:  
 
